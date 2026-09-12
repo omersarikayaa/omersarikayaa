@@ -24,10 +24,18 @@ I build practical machine-learning systems at the intersection of **autonomous s
 | [Telco Customer Churn ML](https://github.com/omersarikayaa/telco-customer-churn-ml) | End-to-end churn prediction using Logistic Regression, KNN, and Random Forest | Python · scikit-learn · Jupyter |
 | [Neural Networks & Image Processing](https://github.com/omersarikayaa/YapaySinirAglariProjeCalismam) | Neural-network and computer-vision experiments | Python · OpenCV |
 
-## AI & data toolkit
+## Tech stack & AI toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,jupyter,git,github,vscode&perline=7" alt="AI engineering tools" />
+  <img src="https://skillicons.dev/icons?i=python,linux,java,cs,cpp,arduino,dart,flutter,dotnet,html,css,sqlite,idea,sklearn,opencv,jupyter,visualstudio,git,github,vscode&perline=10" alt="Languages, databases, IDEs, and AI tools used across Ömer's projects" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-E27D60?style=for-the-badge&labelColor=061B12" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-39D353?style=for-the-badge&labelColor=061B12" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-E27D60?style=for-the-badge&labelColor=061B12" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/SQL-39D353?style=for-the-badge&labelColor=061B12" alt="SQL" />
+  <img src="https://img.shields.io/badge/AirSim-E27D60?style=for-the-badge&labelColor=061B12" alt="AirSim" />
 </p>
 
 <p align="center">
