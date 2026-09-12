@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+%C3%96mer+Sar%C4%B1kaya+%F0%9F%91%8B;AI+Engineer+in+Progress;Autonomy+%7C+Computer+Vision+%7C+Machine+Learning" alt="AI engineer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=E27D60&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+%C3%96mer+Faruk+Sar%C4%B1kaya+%F0%9F%91%8B;AI+Engineer+in+Progress;Autonomy+%7C+Computer+Vision+%7C+Machine+Learning" alt="Ömer Faruk Sarıkaya — AI engineer" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/omersarikayaa?tab=followers"><img src="https://img.shields.io/github/followers/omersarikayaa?label=Followers&style=for-the-badge&color=39D353" alt="GitHub followers" /></a>
-  <a href="https://github.com/omersarikayaa"><img src="https://img.shields.io/badge/Focus-AI%20Engineering-39D353?style=for-the-badge" alt="AI Engineering focus" /></a>
+  <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-E27D60?style=for-the-badge&labelColor=061B12" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-39D353?style=for-the-badge&labelColor=061B12" alt="Building in public" />
 </p>
 
-## AI Engineering focus
+## Flight log
 
 I build practical machine-learning systems at the intersection of **autonomous systems**, **computer vision**, and **data-driven decision making**.
 
@@ -15,7 +15,7 @@ I build practical machine-learning systems at the intersection of **autonomous s
 - 📊 Predictive machine learning for real-world business problems
 - 🧠 Computer vision and neural-network experiments with Python and OpenCV
 
-## Selected work
+## Selected missions
 
 | Project | What I built | Stack |
 | --- | --- | --- |
@@ -39,12 +39,9 @@ I build practical machine-learning systems at the intersection of **autonomous s
 
 ## Contribution flight path
 
-<!-- This animation is generated from the contribution graph by the workflow in .github/workflows. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution flight path" src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/main/assets/retro-flight.svg" alt="All-green retro contribution grid with a moving aircraft" />
+</p>
 
 ## GitHub activity
 
@@ -53,4 +50,4 @@ I build practical machine-learning systems at the intersection of **autonomous s
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersarikayaa&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
-<p align="center"><i>Building toward AI Engineer roles, one project at a time.</i></p>
+<p align="center"><code>Building toward AI Engineer roles, one project at a time.</code></p>
