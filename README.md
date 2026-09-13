@@ -51,12 +51,11 @@ I build practical machine-learning systems at the intersection of **autonomous s
 ## Contribution flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/snake.svg?v=2" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </p>
 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omersarikayaa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ömer Faruk Sarıkaya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersarikayaa&layout=compact&hide_border=true&theme=transparent" alt="Ömer Faruk Sarıkaya's most used languages" />
+  <img src="https://streak-stats.demolab.com?user=omersarikayaa&theme=dark&hide_border=true&type=png" alt="Ömer Faruk Sarıkaya's GitHub streak" />
 </p>
