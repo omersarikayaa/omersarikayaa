@@ -23,7 +23,14 @@ I build practical machine-learning systems at the intersection of **autonomous s
 ## Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,java,cs,cpp,arduino,dart,flutter,dotnet,html,css,sqlite,idea,sklearn,opencv,jupyter,visualstudio,git,github,vscode&perline=10" alt="Languages, databases, IDEs, and AI tools used across Ömer's projects" />
+  <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,windows,java,c,cpp,cs,dotnet,arduino,dart,flutter,html&perline=13" alt="Languages and platforms" />
+  <img src="https://skillicons.dev/icons?i=css,js,sqlite,idea,pycharm,vscode,visualstudio,androidstudio,unreal,opencv,sklearn,git,github&perline=13" alt="Tools and libraries" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/omerfaruksarikayaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
