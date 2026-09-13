@@ -51,7 +51,7 @@ I build practical machine-learning systems at the intersection of **autonomous s
 ## Contribution flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/snake.svg" alt="Animated contribution snake" />
 </p>
 
 ## GitHub activity
