@@ -62,11 +62,11 @@ Right now, I'm strengthening my machine-learning foundation while continuing to 
 ## Contribution flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/snake.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/omersarikayaa/omersarikayaa/output/snake.svg?v=20261003-2" alt="Animated contribution snake" />
 </p>
 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omersarikayaa&theme=dark&hide_border=true&type=png" alt="Ömer Faruk Sarıkaya's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=omersarikayaa&theme=dark&hide_border=true&type=png&v=20261003-2" alt="Ömer Faruk Sarıkaya's GitHub streak" />
 </p>
